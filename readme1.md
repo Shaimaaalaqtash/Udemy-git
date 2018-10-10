@@ -1,2 +1,0 @@
-## online course
-### udemy-git
